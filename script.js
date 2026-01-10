@@ -1,4 +1,4 @@
-alert.log("JS loaded");
+console.log("JS loaded");
 
 // ================== CONFIG ==================
 const SHEET_URL =
