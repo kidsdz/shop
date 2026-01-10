@@ -127,3 +127,4 @@ function showMsg(el, text, color) {
   el.style.color = color;
   el.textContent = text;
   }
+window.onload = loadWilayas;
