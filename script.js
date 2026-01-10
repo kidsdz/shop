@@ -136,6 +136,3 @@ function sendOrder(id, product){
     msg.textContent = "حدث خطأ، حاول لاحقاً";
   });
 }
-document.addEventListener("DOMContentLoaded", function () {
-  renderProducts();
-});
